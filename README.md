@@ -15,3 +15,4 @@ Para que funcione el código, se tiene que descargar el archivo de texto covid y
  >DECIPHER
  >viridis
  >stringr
+Los códigos genéticos fueron obtenidos de la página NCBI
