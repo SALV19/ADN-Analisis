@@ -7,12 +7,17 @@ Dentro del repositorio se pueden encontrar 3 archivos, el código en formato rmd
 
 ### Requerimientos y librerías
 Para que funcione el código, se tiene que descargar el archivo de texto covid y tenerlo en la misma carpeta, al igual que instalar los paquetes:
- >seqnir
- >adegenet
- >ape
- >ggplot2
- >ggtree
- >DECIPHER
- >viridis
- >stringr
 Los códigos genéticos fueron obtenidos de la página NCBI
+### Requerimientos y librerías
+Para que funcione el código, se tiene que descargar el archivo de texto covid y tenerlo en la misma carpeta, al igual que instalar los paquetes:
+
+ 1. seqnir 
+ 2. adegenet
+ 3. ape
+ 4. ggplot2
+ 5. ggtree  
+ 6. DECIPHER
+ 7. viridis
+ 8. stringr
+
+
